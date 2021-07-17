@@ -1,10 +1,10 @@
-# explain-this
+# Sample
 
 ## Description :dizzy:
 
 ![image](https://user-images.githubusercontent.com/80286982/126023845-9713ba1c-9c49-4946-9cf8-f294bc4b071c.png)
 
-A fast way to generate a read me using the command line
+generating a sample readme
 
 * Installation :love_letter:
 
@@ -12,15 +12,15 @@ npm modules
 
 * Usage :thought_balloon:
 
-start project with going into the command line and entering node index.js and answering the prompt questions.
+start with node index.js and answer prompted questions.
 
 * Credit :sweat_drops:
 
-yes, credit due to tutor A.L. and UT bootcamp class.
+yes thanks all
 
 * Contributing :boom:
 
-Donations Welcomed :sparkling_heart:
+donations welcomed
 
 * Licenses
 
@@ -32,15 +32,15 @@ Apache
 
 ### Features
 
-It generates a readme file from prompted questions and can include a screenshot if provided.
+it does alot
 
 ### Github
 
-mindydiane
+samplename
 
 ### email
 
-test@test.com
+sample@sample.com
 ### Tests
 
 yes
