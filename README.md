@@ -16,7 +16,8 @@ start project with going into the command line and entering node index.js and an
 
 * Credit :sweat_drops:
 
-yes, credit due to tutor A.L. and UT bootcamp class.
+yes, credit due to my developer friend Nola, tutor A.L. and UT bootcamp class.
+Without you it wouldn't have been possible, Thank you! :gift_heart:
 
 * Contributing :boom:
 
